@@ -1,7 +1,8 @@
 #CIRCLE
-def circle(r):
- area=3.14*r*r
- perimeter=2*3.14*r
- print("area of circle=",area)
- print("perimeter of circle=",perimeter)
-circle(3)
+#CIRCLE
+#AREA AND PERIMETER
+def area(r):
+ print("Area of circle=",3.14*r*r)
+def perimeter(r):
+ print("perimeter of circle=",2*3.14*r)
+
