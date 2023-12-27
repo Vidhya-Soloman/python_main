@@ -1,4 +1,4 @@
-#CO1 
+#CO1
 #QN 6
 #MERGE TWO DICTIONARY
 dict1={1:'A',2:'B',3:'C'}
