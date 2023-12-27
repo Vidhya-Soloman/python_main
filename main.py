@@ -1,14 +1,13 @@
-from graphics import circle
-#from graphics._3dgGraphics import cuboid
 from graphics import rectangle
+from graphics.circle import area as a,perimeter as p
 from graphics._3dgraphics import *
 l=float(input("Enter the length: "))
 b=float(input("Enter the breadth: "))
 rectangle.area(l,b)
 rectangle.perimeter(l,b)
 r=float(input("Enter the radius: "))
-circle.area(r)
-circle.perimeter(r)
+a(r)
+p(r)
 r=float(input("Enter the radius for sphere: "))
 sphere.area(r)
 sphere.perimeter(r)
