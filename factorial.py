@@ -1,6 +1,12 @@
-#factorial of a number
-n=int(input("enter a number  "))
-fact=1
-for i in range(1,n+1):
- fact=fact*i
-print("factorial of",n,"is",fact)
+#FUNCTION
+#CO2
+#QN 1
+#FACTORIAL OF A NUMBER
+def factorial():
+ i=1
+ n=int(input("Enter a number:"))
+ while(i<n):
+  fact=i*n
+  i=i+1
+ print("Factorial is:",fact)
+factorial()
