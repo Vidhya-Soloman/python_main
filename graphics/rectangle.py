@@ -1,7 +1,10 @@
-#RECTANGLE
-def rect(l,b):
- area=l*b
- perimeter=l+b/2
- print("area of rectangle=",area)
- print("perimeter of rectangle=",perimeter)
-rect(2,3)
+
+#RECTANGLE 
+#AREA AND PERIMETER
+
+def perimeter(l,b):
+ print("Perimeter of rectangle=",2*(l+b))
+def area(l,b):
+ print("Area of rectangle=",l*b)
+ 
+
