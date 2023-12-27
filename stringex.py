@@ -1,4 +1,5 @@
-#CO1 PRGRM 9
+#CO1 
+#QN 1
 #STRING
 #REVERSE FIRST AND LAST LETTER OF A STRING
 str=input("enter a string")
