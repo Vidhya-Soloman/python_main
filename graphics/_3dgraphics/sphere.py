@@ -1,7 +1,4 @@
-#SPHERE
-def sphere(r):
- area=4*3.14*r*r
- volume=4/3*3.14*r*r
- print("area of sphere=",area)
- print("volume of sphere=",volume)
-sphere(3)
+def area(r):
+ print("area of sphere=",4*3.14*r*r)
+def perimeter(r):
+ print("perimeter of sphere=",2*3.14*r)
