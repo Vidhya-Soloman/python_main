@@ -1,7 +1,4 @@
-#CUBOID
-def cuboid(l,b,h):
- area=l*b*h
- perimeter=4*l+b
- print("area of cuboid=",area)
- print("perimeter of cuboid=",perimeter)
-cuboid(2,3,6)
+def area(l,b,h):
+ print("Area of cuboid=",4*(l+b+h))
+def perimeter(l,b,h):
+ print("Area of cuboid=",2*(l+b+h))
