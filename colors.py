@@ -1,4 +1,5 @@
-#CO1 PRGRM 13
+#CO1 
+#QN3
 #PRINTING FIRST AND LAST COLOR
 color=input("Enter comma separated colors: ")
 res=color.split(',')
