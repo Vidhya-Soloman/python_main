@@ -1,3 +1,5 @@
+#CO1
+#QN2
 #greatest of 3
 a=int(input("enter first number"))
 b=int(input("enter 2nd number"))
