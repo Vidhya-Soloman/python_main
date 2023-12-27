@@ -1,3 +1,5 @@
+#CO2
+#QN 2
 #FIBONACCI USING FUNCTION
 def func_fib():
  n=int(input("enter the limit: "))
