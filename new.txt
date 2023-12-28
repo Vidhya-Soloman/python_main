@@ -1,0 +1,2 @@
+python is easy to learn
+python is an interpreted language

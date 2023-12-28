@@ -1,0 +1,4 @@
+python is easy to learn
+python is a high level language
+python is an interpreted language
+python is general purpose language
